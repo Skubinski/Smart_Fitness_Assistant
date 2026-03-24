@@ -27,7 +27,7 @@ Smart Fitness Assistant is a modular desktop application built with Python and w
    
 # Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/smart-fitness-assistant.git
+git clone https://github.com/Skubinski/Smart_Fitness_Assistant.git
 
 2. Navigate to the project (cd Smart_Fitness_Assistant/)
 
