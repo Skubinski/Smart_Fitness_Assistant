@@ -45,7 +45,8 @@ Smart_Fitness_Assistant/
 ├── Logic/                 # Dataset operations
 ├── Models/                # ML models
 ├── UI/                    # wxPython interface
-└── main.py                # Entry point
+├── Gallery/               # Gallery
+├── main.py                # Entry point
 ├── requirements.txt       # Required libraries
 └── README.md              # Application information
 
