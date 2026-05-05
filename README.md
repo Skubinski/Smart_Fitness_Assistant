@@ -32,9 +32,10 @@ git clone https://github.com/Skubinski/A-Smart-Fitness-Assistant-for-Personalize
 2. Navigate to the project (cd A-Smart-Fitness-Assistant-for-Personalized-Workout-and-Diet-Recommendations/)
 
 3. Install dependencies
+Python version: 3.10–3.11 required (wxPython compatibility)
 pip install -r requirements.txt
 
-4. Run the application
+5. Run the application
 python main.py
 
 # Project Structure
